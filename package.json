@@ -1,0 +1,25 @@
+{
+  "name": "echoctf-livecity",
+  "version": "1.0.0",
+  "description": "Link your echoCTF targets with a virtual infrastructure of a live city overlay.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mysql": "^2.12.0",
+    "socket.io": "^4.7.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echoctf/echoctf-livecity.git"
+  },
+  "author": "Echothrust Solutions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/echoctf/echoctf-livecity/issues"
+  },
+  "homepage": "https://github.com/echoctf/echoctf-livecity"
+}
