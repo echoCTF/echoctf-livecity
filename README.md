@@ -37,4 +37,4 @@ HandleNotifications({
 ## TODO
 
 * [ ] Update the javascript dependencies of the frontend (jquery, raphael)
-* [ ] Make the infrastructure dynamic
+* [ ] Make the infrastructure dynamic (pull information from the backend database)
